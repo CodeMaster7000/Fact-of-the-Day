@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico|Roboto+Slab:400,300)
+body
+  height: 100vh
+  font-family: 'Roboto Slab', Pacifico, serif
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-items: center    
+h2
+  font-family: 'Pacifico', serif
+  font-weight: 400
+  font-size: 3em
+  margin-bottom: 0
+.fact
+  height: 160px
+  width: 300px
+  line-height: 150%
+  font-weight: 300
+  font-size: 1.7em
+  text-align: center  
+button
+  font-family: 'Roboto Slab', Pacifico, serif
+  width: 160px
+  height: 50px
+  font-size: 1.1em
+  border-radius: 25px
+  border-style: none
+  color: #fff
+  background-color: #49AAFE
+  border-bottom: 4px solid #4D90FE
+  &:focus
+    outline: none
+  &:active
+    border: 0
+
+.fade
+  opacity: 0
