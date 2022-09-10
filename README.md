@@ -1,3 +1,3 @@
-# Random Fact Generator
+# Fact of the Day
 
-A random fact generator coded in HTML, CSS and JavaScript. I bet you would have never known some of these!
+Receive your daily dose of random facts, with a simple HTML, CSS, and JavaScript programme. I bet you would have never known some of these!
